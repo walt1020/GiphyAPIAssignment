@@ -1,0 +1,44 @@
+body {
+	background: url("images/round.png");
+}
+
+button {
+	border-radius: 15px;
+    margin-right: 1%;
+    background: #fffb23;
+    margin-bottom: 2%;
+}
+
+form {
+	margin-top: 2%;
+	margin-bottom: 2%;
+	font-size: 20px;
+}
+
+#container {
+	width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+#gifHolder {
+	background: gray;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+p {
+	color: white;
+	font-size: 30px;
+}
+
+#submit {
+	width: 5%;
+    background: red;
+}
+
+#header {
+	width: 50%;
+    margin: auto;
+    font-size: 50px;
+}
